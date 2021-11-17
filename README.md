@@ -3,9 +3,9 @@
 ### :dizzy::dizzy:I am a Data Analytics student :book: with experience in handling Sybase databases. :dizzy::dizzy:
 
 
-### Working with the databases and handling huge amount of data had amused me a lot, which interested me to change my career path from pure programming to Data analytics. 
-### Power of data can be seen nowadays on all the platforms, such as unstructured and unclean data is capable of providing insights. Also, with the help of this data, machines are learning human behaviour which is the future and is possible because of loads of information out there.  
-### Currently looking for an opportunity to establish myself in the path of Data Analytics :running:. Thank you for checking my profile!!!!:smile:
+### Working with databases and processing large amounts of data had piqued my attention, and I decided to switch careers from pure programming to data analytics. 
+### Data's power can be observed now on all platforms, even unstructured and unclean data, which can provide insights. Machines are also learning human behaviour with the use of this data, which is the future and is conceivable due to the abundance of data available.   
+### I am currently looking for an opportunity that will allow me to develop myself in the field of data analytics. :running:. Thank you for taking the time to look over my profile!!!! :smile:
 
  ### 📫 To connect with me on LinkedIn: 
  ###     www.linkedin.com/in/anshumduppada
